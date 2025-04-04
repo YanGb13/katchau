@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informações do Aluno</title>
+</head>
+<body>
+    <h1>Dados do Aluno</h1>
+    <p><strong>Nome do Aluno:</strong> Yan Gabriel souza Omedeiros</p>
+    <p><strong>Número:</strong> 32 </p>
+    <p><strong>Turma:</strong> 2º B de exatas </p>
+</body>
+</html>
